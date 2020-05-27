@@ -1,5 +1,5 @@
 # tube-2-gba
-guide
+uide
 https://gbatemp.net/threads/guide-how-to-convert-youtube-videos-to-game-boy-advance-rom-files.520954/
 
 SML Movie Jeffy and Junior's Big Heist!.gba
