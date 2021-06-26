@@ -13,7 +13,9 @@ link
 https://anonfiles.com/1as8q530oc/SML_Movie_Jeffy_s_Online_School_gba
 
 Boneless Pizza.gba
-link https://archive.org/download/boneless-pizza/Boneless%20Pizza.gba
+link
+https://archive.org/download/boneless-pizza/Boneless%20Pizza.gba
 
 THE FATHER OF JUICING - JonTron.gba
-link https://archive.org/download/the-father-of-juicing-jon-tron/THE%20FATHER%20OF%20JUICING%20-%20JonTron.gba
+link
+https://archive.org/download/the-father-of-juicing-jon-tron/THE%20FATHER%20OF%20JUICING%20-%20JonTron.gba
